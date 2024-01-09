@@ -13,3 +13,8 @@ set background=dark
 "APPEARANCE"
 set number
 set relativenumber
+set autoindent
+set incsearch
+set wildmenu
+set laststatus=2
+set confirm  
